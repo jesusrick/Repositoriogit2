@@ -11,6 +11,7 @@
 				}
 			}
 			echo "La suma vale: $suma";
+			echo "La variable vale: $suma";
 		?>
 	</body>
 </html>
